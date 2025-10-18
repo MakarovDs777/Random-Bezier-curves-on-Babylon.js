@@ -8,4 +8,6 @@
 
 [Random Bezier curves endless XYZ version with smooth random movement | Babylon.js Playground](https://playground.babylonjs.com/#ABXTTA#0)
 
+[Random Bezier curves endless XYZ version with smooth random movement and active bending | Babylon.js Playground](https://playground.babylonjs.com/#C5IEXD#0)
+
 [Random Bezier curves endless XYZ version with smooth random movement, active bending, and teleport | Babylon.js Playground](https://playground.babylonjs.com/#3BWGUO#0)
